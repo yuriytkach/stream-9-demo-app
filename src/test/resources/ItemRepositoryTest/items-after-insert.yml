@@ -1,0 +1,4 @@
+items:
+  - id: "regex:\\d+"
+    name: "js:(value != null && value.contains('Name'))"
+    value: null
